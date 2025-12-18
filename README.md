@@ -9,9 +9,9 @@
 
 Synthetic ride-hailing dataset generator that produces 450,000 rides with earned relationships. Surge pricing correlates with wait times. Cancellations spike under demand pressure. Distance distributions shift by zone. The data behaves like real ride-hailing systems because the relationships between variables mirror reality.
 
-The pipeline exports 5 analysis-ready CSV files. Each file delivers pre-aggregated metrics for specific business questions. No cleanup needed. Load the CSVs into your BI tool and start building dashboards. The project demonstrates structured data generation, ETL pipeline design, and realistic synthetic modeling for analytics work.
+The pipeline exports 5 analysis-ready CSV files. Each file delivers pre-aggregated metrics for specific business questions. No cleanup needed. CSVs are ready to be loaded into the BI tool and start building dashboards. The project demonstrates structured data generation, ETL pipeline design, and realistic synthetic modeling for analytics work.
 
-You get clear documentation, reproducible outputs, and a reference implementation for data engineering discipline. Use it to build portfolio projects, test analytics tools, or prototype ride-hailing features without dealing with messy production data or privacy restrictions.
+Clear documentation. Reproducible outputs. Reference implementation for data engineering discipline. The generator creates test data for analytics tools and ride-hailing prototypes without production data constraints or privacy issues.
 
 ## 🎯 Skills Demonstrated
 

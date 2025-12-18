@@ -1,4 +1,4 @@
-# RideGen Analytics
+# RideGen Analytics Pipeline
 ## Ride-Hailing Market Dynamics Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)

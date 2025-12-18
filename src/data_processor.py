@@ -1,4 +1,4 @@
-# Data processing for the RideGen Analytics.
+# Data processing for the RideGen Analytics Pipeline.
 # Loads rides data and exports BI-ready aggregations as CSV.
 
 from __future__ import annotations
